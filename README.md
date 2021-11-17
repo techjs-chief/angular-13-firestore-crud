@@ -7,13 +7,14 @@ Build Angular 13 CRUD App with Firebase Firestore that uses `AngularFireStore` s
 
 ![angular-13-firestore-crud-example](angular-13-firestore-crud-example.png)
 
-For more detail, please visit:
-> [Angular 13 Firestore CRUD example with AngularFireStore](https://www.github.com/JS-IT/angular-13-firestore-crud/)
-
 More Practice:
-> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.github.com/JS-IT/angular-13-firebase-crud/)
+> [Angular 12 Firestore CRUD example with AngularFireStore](https://www.github.com/JS-IT/angular-12-firestore-crud/)
 
-> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.github.com/JS-IT/angular-12-file-upload-firebase-storage/)
+> [Angular 12 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.github.com/JS-IT/angular-12-firebase-crud/)
+
+> [Angular 13 Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.github.com/JS-IT/angular-13-firebase-crud/)
+
+> [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://www.github.com/JS-IT/angular-13-file-upload-firebase-storage/)
 
 > [Angular CRUD Application example with Web API](https://www.github.com/JS-IT/angular-13-crud-example/)
 
