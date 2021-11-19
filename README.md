@@ -23,7 +23,7 @@ More Practice:
 Fullstack with Node Express:
 > [Angular + Node Express + MySQL example](https://github.com/JS-IT/nodejs-express-mysql/)
 
-> [Angular + Node Express + PostgreSQL example](https://github.com/JS-IT/node-express-postgresql/)
+> [Angular + Node Express + PostgreSQL example](https://github.com/JS-IT/node-express-sequelize-postgresql/)
 
 > [Angular + Node Express + MongoDB example](https://github.com/JS-IT/node-express-mongodb/)
 
