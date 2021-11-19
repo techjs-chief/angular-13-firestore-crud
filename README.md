@@ -20,8 +20,6 @@ More Practice:
 
 > [Angular 13 Firebase Storage: File Upload/Display/Delete example](https://github.com/JS-IT/angular-13-file-upload-firebase-storage/)
 
-> [Angular Form Validation example (Reactive Forms)](https://github.com/JS-IT/angular-12-form-validation/)
-
 Fullstack with Node Express:
 > [Angular + Node Express + MySQL example](https://github.com/JS-IT/nodejs-express-mysql/)
 
